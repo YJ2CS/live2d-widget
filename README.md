@@ -1,4 +1,5 @@
 # Live2D Widget
+[![](https://data.jsdelivr.com/v1/package/gh/yj2cs/live2d-widget/badge)](https://www.jsdelivr.com/package/gh/yj2cs/live2d-widget)
 
 ![](https://forthebadge.com/images/badges/built-with-love.svg)
 ![](https://forthebadge.com/images/badges/uses-html.svg)
